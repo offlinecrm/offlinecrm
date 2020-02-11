@@ -41,7 +41,7 @@
   </q-layout>
 </template>
 
-<script lang="ts" lang="ts">
+<script lang="ts">
 import EssentialLink from 'components/EssentialLink';
 
 import Vue from 'vue'
