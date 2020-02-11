@@ -15,7 +15,7 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-  name: "EssentialLink",
+  name: 'EssentialLink',
   props: {
     title: {
       type: String,
@@ -24,17 +24,17 @@ export default Vue.extend({
 
     caption: {
       type: String,
-      default: ""
+      default: ''
     },
 
     link: {
       type: String,
-      default: "#"
+      default: '#'
     },
 
     icon: {
       type: String,
-      default: ""
+      default: ''
     }
   }
 });
