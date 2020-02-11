@@ -1,6 +1,6 @@
 # Offline CRM (offlinecrm)
 
-Offline CRM 
+Offline CRM
 
 ## Install the dependencies
 ```bash
@@ -24,3 +24,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+## Dependencies
+
+- @vue/composition-api
