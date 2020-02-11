@@ -29,3 +29,4 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 - @vue/composition-api
 - @vuex-orm/core
+- @vuex-orm/plugin-axios
