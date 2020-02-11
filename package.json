@@ -14,6 +14,7 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "@vue/composition-api": "^0.3.4",
+    "@vuex-orm/core": "^0.35.2",
     "axios": "^0.18.1",
     "quasar": "^1.0.0",
     "vue-i18n": "^8.0.0"
