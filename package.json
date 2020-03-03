@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "npm run dev:electron",
     "dev:web": "quasar dev",
-    "dev:electron": "quasar dev -m electron",
+    "dev:electron": "quasar dev -m electron -t mat -- --no-sandbox --disable-setuid-sandbox",
     "lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore ./",
     "fix": "eslint --fix --ext .js,.ts,.vue --ignore-path .gitignore ./",
     "build": "npm run build:electron",
@@ -41,6 +41,7 @@
     "electron-debug": "3.0.1",
     "electron-devtools-installer": "2.2.4",
     "electron-packager": "14.2.1",
+    "electron-wix-msi": "2.2.0",
     "eslint": "5.10.0",
     "eslint-config-prettier": "6.0.0",
     "eslint-loader": "2.1.1",
