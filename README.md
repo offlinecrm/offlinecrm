@@ -41,3 +41,18 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 ### Quasar extentions
 
 - @quasar/typescript
+
+## Community support and chanles information
+
+You can use one of these channels to ask a question and get info:
+ 
+- [Slack](https://offlinecrm.slack.com)
+- [Telegram Group Development](https://t.me/OfflineCRM_development)(Highly recommended for faster support)
+- [Telegram Chanel](https://t.me/offlinecrm) (Get the news fast)
+- [GitHub](https://github.com/offlinecrm/offlinecrm) (Bug reports, contributions)
+- [Twitter](https://twitter.com/OfflineCRM) (Get the news fast)
+- [Facebook](https://www.facebook.com/offlinecrm)
+- [Instagram](https://www.instagram.com/offlinecrm)
+- [LinkedIn](https://www.linkedin.com/company/offlinecrm)
+- [vk.com](https://vk.com/offlinecrm)
+ 
