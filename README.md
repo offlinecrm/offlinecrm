@@ -42,7 +42,7 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 - @quasar/typescript
 
-## Community support and chanles information
+## Community support and channels information
 
 You can use one of these channels to ask a question and get info:
  
