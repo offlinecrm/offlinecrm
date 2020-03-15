@@ -56,3 +56,6 @@ You can use one of these channels to ask a question and get info:
 - [LinkedIn](https://www.linkedin.com/company/offlinecrm)
 - [vk.com](https://vk.com/offlinecrm)
  
+## Donate
+
+- [Yandex.Money](https://yasobe.ru/na/offlinecrm)
