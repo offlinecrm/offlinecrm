@@ -1,6 +1,8 @@
 # Offline CRM (offlinecrm)
 
-Offline CRM
+<a target="_blank" rel="nofollow" href="https://www.paypal.me/gerzhan">
+<img src="https://img.shields.io/badge/PayPal-Donate-important.svg?style=plastic&logo=paypal">
+</a>
 
 ## Install the dependencies
 
