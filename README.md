@@ -1,11 +1,7 @@
-# Offline CRM (offlinecrm)
+# Offline CRM (platform)
 
-<a target="_blank" rel="nofollow" href="https://www.paypal.me/gerzhan">
-<img src="https://img.shields.io/badge/PayPal-Donate-important.svg?style=plastic&logo=paypal">
-</a>
-<a target="_blank" rel="nofollow" href="https://yasobe.ru/na/offlinecrm">
-<img src="https://img.shields.io/badge/Yandex-Donate-important.svg?style=plastic&logo=Yandex">
-</a>
+[![Hits-of-Code](https://hitsofcode.com/github/offlinecrm/offlinecrm)](https://hitsofcode.com/view/github/offlinecrm/offlinecrm)
+<br/>
 
 ## Install the dependencies
 
@@ -63,5 +59,8 @@ You can use one of these channels to ask a question and get info:
  
 ## Donate
 
-- [Yandex.Money](https://yasobe.ru/na/offlinecrm)
-- [PayPal](https://www.paypal.me/gerzhan)
+<a target="_blank" rel="nofollow" href="https://www.paypal.me/gerzhan">
+<img src="https://img.shields.io/badge/PayPal-Donate-important.svg?style=plastic&logo=paypal">
+</a><a target="_blank" rel="nofollow" href="https://yasobe.ru/na/offlinecrm">
+<img src="https://img.shields.io/badge/Yandex-Donate-important.svg?style=plastic&logo=Yandex">
+</a>
